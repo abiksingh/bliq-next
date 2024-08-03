@@ -1,0 +1,20 @@
+.noServiceContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    height: 100vh;
+    text-align: center;
+    font-family: Arial, sans-serif;
+}
+
+.warningIcon {
+    width: 50px;
+    height: 50px;
+    margin-bottom: 20px;
+}
+
+.noServiceContainer p {
+    font-size: 1.2em;
+    color: #333;
+}
