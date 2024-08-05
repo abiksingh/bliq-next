@@ -15,7 +15,7 @@ const Home: NextPage = () => {
     return <NoServiceAvailable />;
   }
 
-  return <RideOptions rides={data?.rideOptions ?? []} />;
+  return <RideOptions rides={data.rideOptions} />;
 };
 
 export default Home;
