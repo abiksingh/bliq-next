@@ -5,23 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="159e74b8-c983-454b-a2d2-da9c427259e0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/public/warning.png" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NoServiceAvailable.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/NoServiceAvailable.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RideOptions.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/RideOptions.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/global/Loader.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/global/Loader.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/global/Navbar.module.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/components/global/Navbar.tsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constant.ts" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/server/api/routers/rides.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/package-lock.json" beforeDir="false" afterPath="$PROJECT_DIR$/package-lock.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/package.json" beforeDir="false" afterPath="$PROJECT_DIR$/package.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/_app.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/_app.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/pages/index.tsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/pages/index.tsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/api/root.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/api/root.ts" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/server/api/routers/example.ts" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/env.mjs" beforeDir="false" afterPath="$PROJECT_DIR$/src/env.mjs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/server/api/routers/rides.ts" beforeDir="false" afterPath="$PROJECT_DIR$/src/server/api/routers/rides.ts" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -74,7 +61,7 @@
       <option name="presentableId" value="Default" />
       <updated>1722496241865</updated>
       <workItem from="1722496243373" duration="7396000" />
-      <workItem from="1722618553725" duration="9219000" />
+      <workItem from="1722618553725" duration="17768000" />
     </task>
     <servers />
   </component>

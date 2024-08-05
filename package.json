@@ -2,6 +2,8 @@
   "name": "bliq-next",
   "version": "0.1.0",
   "private": true,
+  "author": "abhishek",
+  "description": "ride-Hailing offer aggregator app",
   "scripts": {
     "build": "next build",
     "dev": "next dev",
